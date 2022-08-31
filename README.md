@@ -15,9 +15,9 @@ Classe E                | 240 - 255           | -              |
 * **Padrao classful**
 1. As Classes A, B e C são utilizadas pelos dispositivos
 
-2. Classe - D utilizada para multicast
+2. Classe D - Utilizada para multicast
 
-3. Classe E utilizada para testes (Hj não é utilizada)
+3. Classe E  - Utilizada para testes (Hj não é utilizada)
 
 -------------------
 
